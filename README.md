@@ -1,6 +1,7 @@
 # claude-code-skills
 
-> **Claude forgets everything between sessions. These skills make it remember.**
+> **A structured methodology that transforms implicit codebase knowledge (architecture, rules, decisions, known issues) into layered, lazily-loaded context —
+  serving every audience (Claude, new joiners, architects, auditors) from a single source of truth, without blowing the context window.**
 
 A collection of skills and commands for [Claude Code](https://claude.ai/code) that give Claude
 a structured, persistent memory of your project — and a repeatable method for understanding
