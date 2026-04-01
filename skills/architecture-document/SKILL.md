@@ -1,7 +1,7 @@
 ---
 name: architecture-document
 description: Generate the 3-file architecture documentation structure (full-analysis, summary, decision) from a reverse-engineering conversation and/or a markdown file source, with wiring into architecture-map and architecture-decisions.
-argument-hint: [name] [type=component|module|subsystem|bounded-context] [doc=<path>] [lang=fr|en]
+argument-hint: "[name] [type=component|module|subsystem|bounded-context] [doc=<path>] [lang=fr|en]"
 ---
 
 # Architecture Document
